@@ -1,0 +1,28 @@
+{
+  "name": "easy-storage",
+  "version": "1.0.0",
+  "description": "Simple package for manage storage in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danjavia/easy-storage.git"
+  },
+  "keywords": [
+    "localstorage",
+    "localStorage",
+    "storage",
+    "react",
+    "npm",
+    "angular",
+    "nodejs"
+  ],
+  "author": "Danjavia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danjavia/easy-storage/issues"
+  },
+  "homepage": "https://github.com/Danjavia/easy-storage#readme"
+}
